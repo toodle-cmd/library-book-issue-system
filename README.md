@@ -23,5 +23,3 @@ This is a beginner-friendly Python project that simulates a library book issuing
 4. If available, the book is issued and a return date is generated.
 5. Users can reissue the book to extend the return date.
 
-## Author
-Created by [Your Name]
